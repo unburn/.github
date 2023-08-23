@@ -1,10 +1,21 @@
-<div align="center">
+<div>
   <p>
-    <a><img src="https://github.com/a3pire/.github/assets/84311327/8548535d-8a6b-4242-a63b-5a8d59dd8008" width="546"/></a>
+    <a><img src="https://see.fontimg.com/api/renderfont4/MdEY/eyJyIjoiZnMiLCJoIjoxMDEsInciOjEwMDAsImZzIjoxMDEsImZnYyI6IiMwMEZGODEiLCJiZ2MiOiIjMDAwMDAwIiwidCI6MX0/QUJPVVQ/american-captain.png"
+        width="100" />
+    </a>
+  </p>
+  <p style="text-align: left;">
+    We are also known for our creativity, we make things easy to use and powerful at work, also we make awesome open
+    source projects and content on our youtube channel.
+  </p>
+  <br>
+  <p>
+    <a><img
+        src="https://see.fontimg.com/api/renderfont4/MdEY/eyJyIjoiZnMiLCJoIjoxMDEsInciOjEwMDAsImZzIjoxMDEsImZnYyI6IiMwMEZGODEiLCJiZ2MiOiIjMDAwMDAwIiwidCI6MX0/U09DSUFM/american-captain.png"
+        width="100" /></a>
+  </p>
+  <p>
+    • <a href="">Discord</a><br>
+    • <a href="">Youtube</a>
   </p>
 </div>
-
-## About Us
-We are also known for our creativity, we make things easy to use and powerful at work, also we make awesome open source projects and content on our youtube channel.
-- [Discord](https://discord.gg/TvjrWtEuyP)
-- [Youtube](https://www.youtube.com/@A3PIRE)
