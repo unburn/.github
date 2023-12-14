@@ -1,13 +1,9 @@
 <div>
-<br>
-<br>
-<img src="https://s6.imgcdn.dev/ZmKKL.png">
-<br>
-<br>
-<br>
-<a href="https://github.com/flameface"><img src="https://s6.imgcdn.dev/ZmPZa.png" style="width: 20%"></a>
-<a href="https://github.com/flameface"><img src="https://s6.imgcdn.dev/ZmT8w.png" style="width: 20px"></a>
-<a href="https://github.com/elitex07"><img src="https://s6.imgcdn.dev/Zm5hu.png" style="width: 20%"></a>
-<a href="https://github.com/flameface"><img src="https://s6.imgcdn.dev/ZmT8w.png" style="width: 20px"></a>
-<a href="https://github.com/unschooledgamer"><img src="https://s6.imgcdn.dev/ZmsWB.png" style="width: 20%"></a>
+  <h1>A3PIRE - Creative Place For Developers</h1>
+  <p>We are trying to build a place for developers where they can share projects and products, chat with other developers, and create awesome things.</p>
+  <p>We are also trying to make things that help developers enhance their ideas and creation.</p>
+
+  <h2>Contact Us</h2>
+  <li>Join Our <a href="https://discord.gg/utaVw6pwNA">Discord Server</a></li>
+  <li>Our <a href="https://a3pire.xyz">Website</a></li>
 </div>
