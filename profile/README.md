@@ -1,5 +1,5 @@
 <div>
-  <img src="https://github.com/user-attachments/assets/0bff5280-97bc-44e3-a1cd-d03934c8e07b">
+  <img src="https://raw.githubusercontent.com/kunalkandepatil/.github/refs/heads/main/assets/unburn_banner.jpg">
   <h1></h1>
   <p>We are trying to build a place for developers where they can share projects and products, chat with other developers, and create awesome things.</p>
   <p>We are also trying to make things that help developers enhance their projects and creation.</p>
